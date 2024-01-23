@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">todo_android</string>
+    <string name="title_activity_main">todo_android</string>
+    <string name="package_name">com.todo_android</string>
+    <string name="custom_url_scheme">com.todo_android</string>
+</resources>
