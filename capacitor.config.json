@@ -2,7 +2,6 @@
   "appId": "com.todo_android",
   "appName": "todo_android",
   "webDir": "dist",
-  "server": {
-    "androidScheme": "https"
+  "server": {           "androidScheme": "https"
   }
 }
